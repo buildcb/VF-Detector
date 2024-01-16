@@ -58,6 +58,7 @@ Please download and put dataset inside the VF-Detector folder
 Note: The current code base requires two GPUs to run. We will try to make it more flexible. 
 
 #### Finetune CodeBERT
+You need to download CodeBERT and put it in folder microsoft.
 Corresponding to seven feature extractors, we have seven python scripts to finetune them.
 
 | Feature extractor index | Finetuning script                     |
