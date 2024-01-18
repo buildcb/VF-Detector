@@ -30,7 +30,7 @@ To replicate the training process of VF-Detector, please follow the below steps:
        10. Evaluate VF-Detector 
 
 ## Prerequisites
-Make sure you create a directory to store embedding vectors, a folder "model" to store saved model, and a "features" folder to store extractor features following this hierarchy:
+Make sure you create a directory to store embedding vectors, a folder "model" to store saved model, and a "features" folder to store extractor features following this hierarchy,and you need to put the files from the VCC, CLD, and data folder into the VF-Detector folder:
 ```
     VF-Detector
         model
