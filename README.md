@@ -1,7 +1,7 @@
 # VF-Detector - Making Multi-Granularity Code Changes on Vulnerability Fix Detector Robust to Mislabeled Changes
 
 ## Introduction
-VF-Detector is a transformer-based novel techinique for detecting vulnerability-fixing commits. VF-Detector extract information of commit in respect to multiple levels of granularity (i.e. commit level, file level, hunk level, line level)
+VF-Detector, a multi-granularity vulnerability detector using a confidence learning approach.
 
 VF-Detector consists of seven feature extractors, regard the combination of granularity and CodeBERT representation:
 
